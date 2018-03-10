@@ -1,0 +1,59 @@
+body {
+  height: 770px;
+  width: 1500px;
+
+  background-image: url("../images/simpsonsbackground1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.char-btn {
+  color: #EEE;
+  background-color: #343434;
+  border-radius: 8px;
+  margin: 4px;
+}
+
+#thumbnails {
+  float: left;
+  width: 800px;
+
+
+}
+
+#buttons {
+  width: 1300px;
+
+}
+
+#user-div {
+  float: right;
+  text-justify: inherit;
+  width: 350px;
+  height: 140px;
+  background-image: url("../images/homerbackground.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: static;
+}
+
+.item {
+  color: whitesmoke;
+  display: inline-block;
+  text-justify: inherit;
+
+
+}
+
+#pictures {
+  float: left;
+  width: 190px;
+  margin: 5px;
+  height: 150px;
+}
+
+.text {
+  color: whitesmoke;
+}
