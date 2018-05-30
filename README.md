@@ -5,7 +5,7 @@ An application that will load ten GIFs from the GIPHY API of The Simpsons charac
 **Home Page**
 ![](/assets/images/start.jpg)
 
-**Click on button of character name you'd like to see GIFS of**
+**Click on button of character name you'd like to see GIFs of**
 ![](/assets/images/moe.jpg)
 
 **Add a character you'd like to see**
