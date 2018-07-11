@@ -16,4 +16,5 @@ An application that will load ten GIFs from the GIPHY API of The Simpsons charac
 
 
 Author
+
 Mike Matheny
