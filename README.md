@@ -15,5 +15,5 @@ An application that will load ten GIFs from the GIPHY API of The Simpsons charac
 ![](/assets/images/ralph.jpg)
 
 
-Authors
+Author
 Mike Matheny
